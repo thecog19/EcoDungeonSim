@@ -1,5 +1,5 @@
 [package]
-name = "ray_tracer"
+name = "EcoDungeonSim"
 version = "0.1.0"
 authors = ["felipesuero <felipe@motivislearning.com>"]
 
