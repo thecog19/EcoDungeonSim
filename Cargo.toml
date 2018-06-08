@@ -1,5 +1,5 @@
 [package]
-name = "EcoDungeonSim"
+name = "eco_dungeon_sim"
 version = "0.1.0"
 authors = ["felipesuero <felipe@motivislearning.com>"]
 
