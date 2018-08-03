@@ -1,5 +1,9 @@
 [package]
+<<<<<<< HEAD
 name = "eco_dungeon_sim"
+=======
+name = "EcoDungeonSim"
+>>>>>>> 6103ececfa35985870153e181b874826f5ac7091
 version = "0.1.0"
 authors = ["felipesuero <felipe@felipesuero.com>"]
 

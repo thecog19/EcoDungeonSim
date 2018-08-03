@@ -1,8 +1,5 @@
 extern crate rand;
-extern crate gtk;
 
-use gtk::prelude::*;
-use gtk::{Button, Window, WindowType};
 
 
 fn main() {
