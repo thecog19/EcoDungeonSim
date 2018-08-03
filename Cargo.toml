@@ -1,7 +1,7 @@
 [package]
-name = "ray_tracer"
+name = "eco_dungeon_sim"
 version = "0.1.0"
-authors = ["felipesuero <felipe@motivislearning.com>"]
+authors = ["felipesuero <felipe@felipesuero.com>"]
 
 [dependencies]
 rand = "0.3.14"
